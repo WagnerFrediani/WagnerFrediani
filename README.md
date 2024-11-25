@@ -3,6 +3,10 @@
 - 🎇 Atualmente sou desenvolvedor web.
 - 🌱 Estudando React, JavaScript, e Angular.
 
+
+ ![Snake animation](https://github.com/zNexTage/zNexTage/blob/output/github-contribution-grid-snake.svg)
+
+
  <div>
   <a href="https://github.com/WagnerFrediani">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WagnerFrediani&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -30,6 +34,5 @@
   <a href = "mailto:wfrediane@gmail.omc"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/wagner-frediani-050b06335/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/zNexTage/zNexTage/blob/output/github-contribution-grid-snake.svg)
  
 </div>
