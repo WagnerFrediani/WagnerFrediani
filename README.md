@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Wagner.
-- ✨ 24 anos.
+- ✨ 25 anos.
 - 🎇 Atualmente sou desenvolvedor web.
 - 🌱 Estudando React, JavaScript, e Angular.
 
