@@ -1,28 +1,35 @@
-## Hey there! 👋 ##
-Hello, my name is Wagner Frediani and I am a Technologist in Systems Analysis and Development student at the Universidade Nove de Julho Campus Vila Prudente. In addition, I have experience as an Authorized Clerk of Notary, where I was able to improve my skills in interpreting legal texts, notarization and authentication of copies.
+### Olá! Eu sou o Wagner.
+- ✨ 24 anos.
+- 🎇 Atualmente sou desenvolvedor web.
+- 🌱 Estudando React, JavaScript, e Angular.
 
-I am looking for internships in the area of ​​Information Technology (IT) and I have certifications in Information Security Technology, General Data Protection Law (LGPD), Information Security with Python and Grafotécnica and Documents-Copy.
-
-I completed my technical course in Legal Services at ETEC - Jorge Street in 2019 and I am currently studying Technologist in Systems Analysis and Development, with completion scheduled for 06/2024.
-
-Among my skills are pro activity, good communication, organization, responsibility and dynamism, as well as knowledge in spreadsheets, presentations and platforms. I have basic knowledge in English.
-
-Helping people solve their problems through software development is what drives me.
-
-### Fav tech ###
-<div style="display: inline_block"><br>
-    <img align="center" alt="Logo Node JS" height="30" width="40" src="https://cdn.delivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />         
-    <img align="center" alt="Logo React JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-    <img align="center" alt="Logo Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-    <img align="center" alt="Logo Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-    <img align="center" alt="Logo HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-    <img align="center" alt="Logo CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+ <div>
+  <a href="https://github.com/WagnerFrediani">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zNexTage&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zNexTage&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
-### Contact Me ###
- 
-<div style="display: inline_block"><br> 
-  <a href="https://www.linkedin.com/in/wagner-frediani-1743a3212" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.instagram.com/frediani1_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   
+ <div style="display: inline_block"><br>
+   <img align="center" alt="Logo VsCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Logo HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Logo CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Logo Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Logo Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Logo React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">  
+  <img align="center" alt="Logo Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Logo Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> 
+  
+   
+  
+  
+</div>
+  
+  ##
+<div> 
+  
+  <a href = "mailto:wfrediane@gmail.omc"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/wagner-frediani-050b06335/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/WagnerFrediani/WagnerFrediani/blob/output/github-contribution-grid-snake.svg)
+ 
 </div>
