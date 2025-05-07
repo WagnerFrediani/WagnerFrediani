@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Wagner.
 - ✨ 25 anos.
 - 🎇 Atualmente sou desenvolvedor web.
-- 🌱 Estudando React, JavaScript, e Angular.
+- 🌱 Estudando Java, Spring, e Angular.
 
 
  ![Snake animation](https://github.com/zNexTage/zNexTage/blob/output/github-contribution-grid-snake.svg)
