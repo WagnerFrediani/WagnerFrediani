@@ -23,5 +23,5 @@ I'm a software developer with a curiosity for learning and improving. I focus on
 
 <br />
 
-<a href="www.linkedin.com/in/wagner-frediani-050b06335" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+<br> <a href="www.linkedin.com/in/wagner-frediani-050b06335" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 
