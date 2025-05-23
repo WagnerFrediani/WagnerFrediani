@@ -1,6 +1,5 @@
 #  Wagner Frediani
 
- ![Snake animation](https://github.com/zNexTage/zNexTage/blob/output/github-contribution-grid-snake.svg)
 
 **`Desenvolvedor Junior - Kotlin`**
 
@@ -8,6 +7,7 @@ I'm a software developer with a curiosity for learning and improving. I focus on
 
 
 ---
+![Snake animation](https://github.com/zNexTage/zNexTage/blob/output/github-contribution-grid-snake.svg)
 
 ### 🧰 Languages and Tools
 
