@@ -1,36 +1,27 @@
-### Olá! Eu sou o Wagner.
-
-- ✨ 25 anos.
-- 🎇 Atualmente sou DEV Junior.
-- 🌱 Estudando Kotlin, Spring, e Android.
-
+#  Wagner Frediani
 
  ![Snake animation](https://github.com/zNexTage/zNexTage/blob/output/github-contribution-grid-snake.svg)
 
+**`Desenvolvedor Junior - Kotlin`**
 
- <div>
-  <a href="https://github.com/WagnerFrediani">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WagnerFrediani&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wagner&layout=compact&langs_count=7&theme=omni"/>
-</div>
-  
- <div style="display: inline_block"><br>
-  <img align="center" alt="Logo Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg"> 
-  <img align="center" alt="Logo Android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
-  <img align="center" alt="Logo Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">  
-  <img align="center" alt="Logo VsCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Logo HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Logo CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Logo Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> 
-  
-    
-  
-</div>
+I'm a software developer with a curiosity for learning and improving. I focus on writing clean and reusable code, I enjoy collaborating and sharing knowledge with my friends. Focused on my career in the banking sector, I also enjoy devising my own solutions for everyday challenges. In addition, I am committed to enhancing my skills on LeetCode to refine my problem-solving abilities.
 
-## 
 
-<div> 
+---
 
-<a href="https://www.linkedin.com/in/wagner-frediani-050b06335/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+### 🧰 Languages and Tools
 
-</div>
+<img align="left" alt="Kotlin" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"/>
+<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+
+
+<img align="left" alt="Vscode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html/html-original.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css/csss-original.svg" />
+
+
+<br />
+
+<a href="www.linkedin.com/in/wagner-frediani-050b06335" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+
