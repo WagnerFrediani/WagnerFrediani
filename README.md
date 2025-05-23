@@ -9,6 +9,8 @@ I'm a software developer with a curiosity for learning and improving. I focus on
 ---
 ![Snake animation](https://github.com/zNexTage/zNexTage/blob/output/github-contribution-grid-snake.svg)
 
+<br>
+
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Kotlin" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"/>
@@ -21,7 +23,7 @@ I'm a software developer with a curiosity for learning and improving. I focus on
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
 
 
-<br />
+<br /> <br>
 
 <br> <a href="www.linkedin.com/in/wagner-frediani-050b06335" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 
