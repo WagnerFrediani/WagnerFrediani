@@ -11,29 +11,20 @@
 - 🖥️ Experiência com desenvolvimento web e aplicações em Android.
 - 💼 Atuação em projetos pessoais
 
----
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MartnsProjetos/MartnsProjetos/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MartnsProjetos/MartnsProjetos/output/pacman-contribution-graph.svg">
-  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/MartnsProjetos/MartnsProjetos/output/pacman-contribution-graph.svg">
-</picture>
-
----
-
 ## Tecnologias e linguagens 💻
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,figma&theme=light)](https://skillicons.dev)
 
-### 🚀 Frameworks e bibliotecas
+### 🚀 Frameworks e bibliotecas 🚀
 [![My Skills](https://skillicons.dev/icons?i=spring)](https://skillicons.dev)
 
-### 🛠️ Ferramentas de desenvolvimento
+### 🛠️ Ferramentas de desenvolvimento 🛠️
 [![My Skills](https://skillicons.dev/icons?i=git,github,idea)](https://skillicons.dev)
 
   <div style="flex: 1 1 300px; max-width: 600px; text-align: left;">
     <p>
-      Atuo com <strong>desenvolvimento web</strong> usando HTML, CSS, JavaScript, Node.js e MySQL/PostgreSQL.<br><br>
+      Atuo com <strong>desenvolvimento Back-End </strong> usando Java <br><br>
       Atualmente me aprofundo em <strong>Java com Spring Boot</strong> e sigo aplicando meus aprendizados em projetos práticos e desafios.<br><br>
-      Tenho também experiência com <strong>design visual</strong> e criação de catálogos para e-commerces e redes sociais, sempre buscando alinhar código com estética e funcionalidade.
+      Tenho também experiência com <strong>Kotlin</strong> e criação de aplicativos básicos em Android, sempre buscando alinhar código com estética e funcionalidade.
     </p>
   </div>
 
@@ -41,8 +32,10 @@
 
 <hr>
 
+## Rede Sociais 💻
+
 <p align="left">
-  Vamos nos conectar? Me envie um e-mail, me siga no LinkedIn✨
+  Vamos nos conectar? Me envie um e-mail, me siga no LinkedIn 🚀
 </p>
 
 <p align="left">
@@ -53,3 +46,12 @@
     <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"/>
   </a>
 </p>
+
+---
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MartnsProjetos/MartnsProjetos/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MartnsProjetos/MartnsProjetos/output/pacman-contribution-graph.svg">
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/MartnsProjetos/MartnsProjetos/output/pacman-contribution-graph.svg">
+</picture>
+
+---
