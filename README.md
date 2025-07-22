@@ -8,7 +8,7 @@
 
 - 🎓 Técnologo em Analise e Desenvolvimento de Sistemas
 - 📚 Estudando Java, Spring Boot, Kotlin, Android, HTML, CSS e MySQL
-- 🖥️ Experiência com desenvolvimento web
+- 🖥️ Experiência com desenvolvimento web e aplicações em Android.
 - 💼 Atuação em projetos pessoais
 
 ---
