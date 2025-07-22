@@ -1,7 +1,7 @@
 # 🧑🏽‍💻 Olá, eu sou o Wagner!
 
 <p align="left">
-  Desenvolvedor Full Stack em formação, apaixonado por transformar ideias em soluções práticas com código. <br>
+  Desenvolvedor Back-End em formação, apaixonado por transformar ideias em soluções práticas com código. <br>
   Tenho focado meus estudos em <strong>Java</strong> e <strong>Spring Boot</strong> no back-end.</p>
 
 ## Sobre mim
