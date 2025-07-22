@@ -29,22 +29,6 @@
 ### 🛠️ Ferramentas de desenvolvimento
 [![My Skills](https://skillicons.dev/icons?i=git,github,idea)](https://skillicons.dev)
 
-
-
-
-<!-- Container flexível para ajustar imagem e texto lado a lado no PC e empilhado no celular -->
-<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 20px;">
-
-  <!-- Imagem com tamanho responsivo e alinhada à esquerda no PC -->
-  <div style="flex: 1 1 300px; max-width: 400px; text-align: center;">
-    <img 
-      src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" 
-      alt="ilustração de um computador" 
-      style="width: 100%; max-width: 400px; height: auto; display: inline-block;"
-    >
-  </div>
-
-  <!-- Texto com largura flexível, alinhado à esquerda -->
   <div style="flex: 1 1 300px; max-width: 600px; text-align: left;">
     <p>
       Atuo com <strong>desenvolvimento web</strong> usando HTML, CSS, JavaScript, Node.js e MySQL/PostgreSQL.<br><br>
@@ -58,14 +42,14 @@
 <hr>
 
 <p align="left">
-  Vamos nos conectar? Me envie um e-mail, me siga no LinkedIn ou me chame no WhatsApp! 💌✨
+  Vamos nos conectar? Me envie um e-mail, me siga no LinkedIn✨
 </p>
 
 <p align="left">
   <a href="mailto:frediani.work@gmail.com" title="Gmail">
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white"/>
   </a>
-  <a href="www.linkedin.com/in/wagner-frediani/" title="LinkedIn">
+  <a href="[www.linkedin.com/in/wagner-frediani/](https://www.linkedin.com/in/wagner-frediani/)" title="LinkedIn">
     <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"/>
   </a>
 </p>
