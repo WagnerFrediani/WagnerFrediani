@@ -23,7 +23,7 @@
   <div style="flex: 1 1 300px; max-width: 600px; text-align: left;">
     <p>
       Atuo com <strong>desenvolvimento Back-End </strong> usando Java <br><br>
-      Atualmente me aprofundo em <strong>Java com Spring Boot</strong> e sigo aplicando meus aprendizados em projetos práticos e desafios.<br><br>
+      Sempre tentando me aprofundar mais em <strong>Java com Spring Boot</strong> e sigo aplicando meus aprendizados em projetos práticos e desafios.<br><br>
       Tenho também experiência com <strong>Kotlin</strong> e criação de aplicativos básicos em Android, sempre buscando alinhar código com estética e funcionalidade.
     </p>
   </div>
