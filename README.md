@@ -12,13 +12,13 @@
 - 💼 Atuação em projetos pessoais
 
 ## Tecnologias e linguagens 💻
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,)](https://skillicons.dev)
 
 ### 🚀 Frameworks e bibliotecas 🚀
 [![My Skills](https://skillicons.dev/icons?i=spring)](https://skillicons.dev)
 
 ### 🛠️ Ferramentas de desenvolvimento 🛠️
-[![My Skills](https://skillicons.dev/icons?i=git,github,idea)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,idea,androidstudio,vscode)](https://skillicons.dev)
 
   <div style="flex: 1 1 300px; max-width: 600px; text-align: left;">
     <p>
